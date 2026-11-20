@@ -1,0 +1,1 @@
+import{Y as e,Z as n}from"../entry/start.DCAA3yTp.js";export{e as component,n as universal};

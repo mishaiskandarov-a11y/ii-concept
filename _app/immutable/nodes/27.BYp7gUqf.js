@@ -1,0 +1,1 @@
+import{X as m}from"../entry/start.CQbAL8vv.js";export{m as component};
